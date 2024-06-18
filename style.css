@@ -14,10 +14,15 @@ padding: 10px ;
 section{
     display: flex;
     align-items: center;
-    background-color: rgb(100, 21, 21);
     margin: 10px 0;
     padding: 10px 20px;
 }
+.fotos{
+    display: flex;
+    align-items: center;
+    background-color: rgb(100, 21, 21);
+    margin: 10px 0;
+    padding: 10px 20px;
 div{
     padding: 30px;
 }
