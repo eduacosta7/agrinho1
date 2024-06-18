@@ -23,7 +23,7 @@ section{
     background-color: rgb(100, 21, 21);
     margin: 10px 0;
     padding: 10px 20px;}
-    
+
 div{
     padding: 30px;
 }
@@ -54,4 +54,7 @@ div{
     padding: 1em;
     background-color:  rgb(231, 229, 229, 0.849);
     
+}
+.tomate{
+    align-items: center;
 }
