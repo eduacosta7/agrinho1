@@ -84,3 +84,10 @@ div{
     header h1{
     font-size: 1,5rem;}
 }
+.c{
+    display: flex;
+    align-items: center;
+    background-color: rgb(100, 21, 21);
+    margin: 0% 0;
+    padding: 10px 20px;}
+}
