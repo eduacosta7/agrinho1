@@ -99,3 +99,14 @@ div{
             padding: 12px 0;
             border-radius: 50%;
         }
+        .papa{
+            width: 16%;
+            border-radius: 50%;
+        }
+        .email{
+            display: flex;
+            align-items: center;
+            background-color: rgb(100, 21, 21);
+            margin: 0% 0;
+            padding: 10px 20px;}
+        }
